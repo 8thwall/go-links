@@ -1,15 +1,12 @@
-/8Talks https://us02web.zoom.us/webinar/register/5016110904435/WN_mB-StqWQQduGtzbLwr280Q
 /8cademy https://courses.8thwall.com
+/8Talks https://us02web.zoom.us/webinar/register/5016110904435/WN_mB-StqWQQduGtzbLwr280Q
 /8thWallBlog https://www.8thwall.com/blog
-/AssetLab https://www.8thwall.com/docs/studio/asset-lab/
-/FAQ https://www.8thwall.com/docs/migration/faq/
-/NAEDocs https://www.8thwall.com/docs/studio/guides/native-app-export/
-/NAEdocs https://www.8thwall.com/docs/studio/native-app-export/
 /agent-docs-install https://www.8thwall.com/docs/
 /agent-vscode-marketplace https://marketplace.visualstudio.com/items?itemName=8thWall.8th-wall-agent
 /agent-vsix-latest https://marketplace.visualstudio.com/_apis/public/gallery/publishers/8thWall/vsextensions/8th-wall-agent/latest/vspackage
 /ar-tooling https://www.8thwall.com/products
 /assetlab https://www.8thwall.com/docs/studio/asset-lab/
+/AssetLab https://www.8thwall.com/docs/studio/asset-lab/
 /blog https://www.8thwall.com/blog
 /buildable-code-docs https://www.8thwall.com/
 /buildable-code-export-docs https://www.8thwall.com/docs/migration/8thwall-hosted/
@@ -32,6 +29,7 @@
 /events https://events.8thwall.com/
 /examples https://github.com/8thwall/8thwall/tree/main/examples#readme
 /faq https://www.8thwall.com/docs/migration/faq/
+/FAQ https://www.8thwall.com/docs/migration/faq/
 /forum https://www.8thwall.com/forum
 /game-engine https://www.8thwall.com/products
 /gamejam https://www.8thwall.com/community/jams
@@ -66,6 +64,8 @@
 /nae-html-export-viverse https://www.8thwall.com/docs/studio/native-app-export/html/#viverse
 /nae-html-export-your-server https://www.8thwall.com/docs/studio/native-app-export/html/#self-host
 /nae-white-label https://www.8thwall.com/docs/account/projects/white-label
+/NAEDocs https://www.8thwall.com/docs/studio/guides/native-app-export/
+/NAEdocs https://www.8thwall.com/docs/studio/native-app-export/
 /offline-mode https://www.8thwall.com/docs/migration/8thwall-hosted/development/
 /oss-plans https://www.8thwall.com/blog/post/202888018234/8th-wall-update-engine-distribution-and-open-source-plans
 /privacy https://www.8thwall.com/privacy

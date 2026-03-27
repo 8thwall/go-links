@@ -66,6 +66,11 @@
 /nae-white-label https://www.8thwall.com/docs/account/projects/white-label
 /NAEDocs https://www.8thwall.com/docs/studio/guides/native-app-export/
 /NAEdocs https://www.8thwall.com/docs/studio/native-app-export/
+/offline-html-export https://8thwall.org/docs/getting-started/publishing
+/offline-html-export-discord https://8thwall.org/docs/getting-started/publishing#discord
+/offline-html-export-itch https://8thwall.org/docs/getting-started/publishing#itchio
+/offline-html-export-viverse https://8thwall.org/docs/getting-started/publishing#viverse
+/offline-html-export-your-server https://8thwall.org/docs/getting-started/publishing#self-hosting-your-project
 /offline-mode https://www.8thwall.com/docs/migration/8thwall-hosted/development/
 /oss-plans https://www.8thwall.com/blog/post/202888018234/8th-wall-update-engine-distribution-and-open-source-plans
 /privacy https://www.8thwall.com/privacy

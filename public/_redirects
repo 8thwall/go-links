@@ -42,8 +42,8 @@
 /learn https://8thwall.org/docs
 /lib https://www.8thwall.org
 /license-FAQ https://8thwall.org/docs/migration/faq#distributed-engine-binary-license-and-permitted-use
-/mac-arm64-latest https://github.com/8thwall/desktop/releases/download/v1.0.202604271551/8th-Wall-1.0.202604271551-mac-arm64.dmg
-/mac-intel-latest https://github.com/8thwall/desktop/releases/download/v1.0.202604271551/8th-Wall-1.0.202604271551-mac-x64.dmg
+/mac-arm64-latest https://github.com/8thwall/desktop/releases/download/v1.0.202605071533/8th-Wall-1.0.202605071533-mac-arm64.dmg
+/mac-intel-latest https://github.com/8thwall/desktop/releases/download/v1.0.202605071533/8th-Wall-1.0.202605071533-mac-x64.dmg
 /migrate-project-offline https://8thwall.org/docs/migration
 /migration https://8thwall.org/docs/migration
 /module-compatibility-docs https://www.8thwall.org
@@ -89,7 +89,7 @@
 /v2update https://www.8thwall.org
 /v2upgradeguide https://forum.8thwall.com/t/runtime-version-2-upgrade-guide/
 /whatsnew https://8thwall.org/blog
-/win-x64-latest https://github.com/8thwall/desktop/releases/download/v1.0.202604271551/8th-Wall-Setup-1.0.202604271551-win-x64.exe
+/win-x64-latest https://github.com/8thwall/desktop/releases/download/v1.0.202605071533/8th-Wall-Setup-1.0.202605071533-win-x64.exe
 /windows-x64 https://8th.io/win-x64-latest
 /xrextras https://github.com/8thwall/web/blob/master/xrextras/README.md
 /xrextras-components https://github.com/8thwall/web/blob/master/xrextras/src/aframe/xr-components.js

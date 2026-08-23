@@ -43,8 +43,8 @@
 /learn https://8thwall.org/docs
 /lib https://www.8thwall.org
 /license-FAQ https://8thwall.org/docs/migration/faq#distributed-engine-binary-license-and-permitted-use
-/mac-arm64-latest https://github.com/8thwall/desktop/releases/download/v1.0.202608141629/8th-Wall-1.0.202608141629-mac-arm64.dmg
-/mac-intel-latest https://github.com/8thwall/desktop/releases/download/v1.0.202608141629/8th-Wall-1.0.202608141629-mac-x64.dmg
+/mac-arm64-latest https://github.com/8thwall/desktop/releases/download/v1.0.202608221732/8th-Wall-1.0.202608221732-mac-arm64.dmg
+/mac-intel-latest https://github.com/8thwall/desktop/releases/download/v1.0.202608221732/8th-Wall-1.0.202608221732-mac-x64.dmg
 /migrate-project-offline https://8thwall.org/docs/migration
 /migration https://8thwall.org/docs/migration
 /module-compatibility-docs https://www.8thwall.org
@@ -77,7 +77,7 @@
 /oss-plans https://8thwall.org/blog/8th-wall-open-source
 /privacy https://8thwall.org/legacy-policies/privacy
 /publishing https://8thwall.org/docs/getting-started/publishing
-/report-desktop-error https://github.com/8thwall/8thwall/issues/new
+/report-desktop-error https://github.com/8thwall/8thwall/issues/new?template=desktop-error.yml
 /self-hosted-domains https://8thwall.org/docs/getting-started/publishing#self-hosting-your-project
 /slack https://8th.io/discord
 /studio-config-migration https://github.com/8thwall/studio-physics-playground-example/commit/de3c862cb33a946ac88cc5f8980fbbcaf5a19c25
@@ -91,7 +91,7 @@
 /v2update https://www.8thwall.org
 /v2upgradeguide https://forum.8thwall.com/t/runtime-version-2-upgrade-guide/
 /whatsnew https://8thwall.org/blog
-/win-x64-latest https://github.com/8thwall/desktop/releases/download/v1.0.202608141629/8th-Wall-Setup-1.0.202608141629-win-x64.exe
+/win-x64-latest https://github.com/8thwall/desktop/releases/download/v1.0.202608221732/8th-Wall-Setup-1.0.202608221732-win-x64.exe
 /windows-x64 https://8th.io/win-x64-latest
 /xrextras https://github.com/8thwall/web/blob/master/xrextras/README.md
 /xrextras-components https://github.com/8thwall/web/blob/master/xrextras/src/aframe/xr-components.js
